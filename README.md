@@ -1,2 +1,4 @@
-# paitonsura4
-condicionales y ciclos con python
+# CICLOS Y CONDICIONES CON PYTHON
+
+## programado por: Fabio Alexis Villa 
+
